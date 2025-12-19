@@ -5,7 +5,7 @@
 ```
 %scoreboard_<scoreboard name>_localplayer%
 ```
-**or** 
+**and** 
 ```
 %scoreboard_<scoreboard name>_<scoreboard username>%
 ```
