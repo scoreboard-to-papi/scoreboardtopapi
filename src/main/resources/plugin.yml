@@ -1,0 +1,7 @@
+name: scoreboardtopapi
+version: '1.0'
+main: org.igorgames.scoreboardtopapi.Scoreboardtopapi
+api-version: '1.21'
+authors: [ igorgames ]
+description: cool plugin
+depend: [PlaceholderAPI]
